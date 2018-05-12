@@ -1,0 +1,26 @@
+_repo: A-Source-Book-for-Ancient-Church-History_24979
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ayer, Joseph Cullen
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '26855'
+    url: http://www.gutenberg.org/2009/agents/26855
+description: ''
+gutenberg_issued: '2008-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600 -- Sources'
+- !lcc 'BR'
+title: A Source Book for Ancient Church History
+url: http://www.gutenberg.org/ebooks/24979
